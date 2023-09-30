@@ -1,3 +1,4 @@
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/cmfi_nation/public_html/
